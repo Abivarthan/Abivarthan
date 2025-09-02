@@ -43,14 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abivarthan&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abivarthan&layout=compact&theme=radical" width="49%" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
